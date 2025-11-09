@@ -1,0 +1,21 @@
+{
+    "name": "wellmed-plus/ms-plus-organization",
+    "autoload": {
+        "psr-4": {
+            "WellmedPlus\\MsPlusOrganization\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Hamzah Nur Alfalah",
+            "email": "hamzahnafalah@gmail.com"
+        }
+    ],
+    "require": {
+        "hanafalah/module-organization": "dev-main",
+        "hanafalah/module-agent": "dev-main",
+        "hanafalah/module-payer": "dev-main"
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
+}
